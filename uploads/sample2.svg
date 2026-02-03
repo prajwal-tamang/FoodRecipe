@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-  <rect width="100%" height="100%" fill="#C8E6C9"/>
-  <g transform="translate(400,300)" font-family="Arial, sans-serif" fill="#2E7D32">
-    <circle cx="0" cy="-20" r="120" fill="#A5D6A7" opacity="0.9"/>
-    <text x="0" y="8" font-size="36" text-anchor="middle">Sample Dish 2</text>
-  </g>
-</svg>
