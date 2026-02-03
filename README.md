@@ -44,3 +44,17 @@ A simple PHP + MySQL app to add, view, edit, and delete recipes.
 - `includes/` — shared templates and helpers
 - `assets/` — CSS and JS
 - `uploads/` — recipe images
+
+## Screenshots
+
+Home / Recipes
+
+![Homepage](assets/img/homepage.png)
+
+Add Recipe
+
+![Add Recipe](uploads/add.png)
+
+View Recipe
+
+![View Recipe](uploads/view.png)
